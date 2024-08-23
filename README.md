@@ -13,14 +13,4 @@ Welcome to the **World Top Companies Data Analysis** project! This repository pr
 - **Data Files**: Includes Excel spreadsheets and Jupyter Notebooks for thorough analysis.
 - **Professional Presentation**: High-quality visuals and well-organized data representations.
 
-## 📈 Visualizations
 
-## 🛠️ Setup Instructions
-
-To get started with the project, follow these steps:
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/inayatrahimdev/DEP-Data-Analysis.git
-   '''
