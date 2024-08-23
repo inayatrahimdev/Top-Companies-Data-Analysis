@@ -14,8 +14,10 @@ Welcome to the **World Top Companies Data Analysis** project! This repository pr
 - **Professional Presentation**: High-quality visuals and well-organized data representations.
 
 ## 📂 Data Files
-top_companies.xlsx: Contains the main dataset with company metrics.
-analysis_notebook.ipynb: Jupyter Notebook with data analysis and visualizations.
+
+- `top_companies.xlsx`: Contains the main dataset with company metrics.
+- `analysis_notebook.ipynb`: Jupyter Notebook with data analysis and visualizations.
+
 
 ## 📧 Contact
 For any questions or suggestions, feel free to reach out at inayatrahim006@gmail.com.
