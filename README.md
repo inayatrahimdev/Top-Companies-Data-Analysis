@@ -10,18 +10,10 @@ Welcome to the **World Top Companies Data Analysis** project! This repository pr
 
 - **Interactive Visualizations**: Engaging charts and graphs to explore company data.
 - **Insightful Analysis**: In-depth analysis of revenue, profit, and employee metrics.
-- **Data Files**: Includes Excel spreadsheets, PDF reports, and Jupyter Notebooks for thorough analysis.
+- **Data Files**: Includes Excel spreadsheets and Jupyter Notebooks for thorough analysis.
 - **Professional Presentation**: High-quality visuals and well-organized data representations.
 
 ## 📈 Visualizations
-
-### Revenue vs. Profit
-
-![Revenue vs. Profit](https://via.placeholder.com/800x400?text=Revenue+vs+Profit)
-
-### Employees vs. Profit
-
-![Employees vs. Profit](https://via.placeholder.com/800x400?text=Employees+vs+Profit)
 
 ## 🛠️ Setup Instructions
 
@@ -31,3 +23,4 @@ To get started with the project, follow these steps:
 
    ```bash
    git clone https://github.com/inayatrahimdev/DEP-Data-Analysis.git
+   '''
